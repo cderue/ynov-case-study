@@ -15,8 +15,8 @@ Une entreprise de conseil de 500 employés souhaite optimiser l'utilisation de s
 
 ## Contraintes techniques :
 
-- Intégration avec Microsoft Exchange pour la gestion des calendriers
-- Authentification via l'Active Directory existant
+- Intégration avec M365 Outlook pour la gestion des calendriers
+- Authentification via Microsoft Entra ID existant
 - Application web responsive et application mobile native (iOS/Android)
 - Installation de tablettes Android à l'entrée de chaque salle
 
