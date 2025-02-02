@@ -29,8 +29,6 @@ Une entreprise de conseil de 500 employés souhaite optimiser l'utilisation de s
 ## User Stories
 
 Voici un ensemble de **User Stories** pour un **système de réservation d’espace de travail** dans une startup de location de bureaux pour le coworking.
-
----
  
 - **US001 - Réserver un espace de travail**  
   > En tant qu'**utilisateur**, je veux pouvoir **réserver un espace de travail** pour une période donnée afin de m'assurer d'avoir un bureau disponible.  
@@ -86,6 +84,3 @@ Voici un ensemble de **User Stories** pour un **système de réservation d’esp
 - **US018 - Générer des rapports et statistiques**  
   > En tant qu'**administrateur**, je veux pouvoir **générer des rapports d’utilisation des espaces et équipements** afin d’optimiser la gestion des ressources et améliorer l’expérience client.  
 
----
-
-Ce backlog de **User Stories** permet de cadrer les fonctionnalités du **système de réservation** et de prioriser le développement. Besoin d’ajouter d’autres fonctionnalités spécifiques ? 😊
