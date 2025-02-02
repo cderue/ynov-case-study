@@ -28,7 +28,7 @@ Une entreprise de conseil de 500 employés souhaite optimiser l'utilisation de s
 
 ## User Stories
 
-Voici un ensemble de **User Stories** pour un **système de réservation d’espace de travail** dans une startup de location de bureaux pour le coworking. Ces User Stories couvrent les fonctionnalités principales : **réservation, gestion des salles et équipements, et paiement/facturation**.  
+Voici un ensemble de **User Stories** pour un **système de réservation d’espace de travail** dans une startup de location de bureaux pour le coworking.
 
 ---
  
